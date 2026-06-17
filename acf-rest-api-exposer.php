@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       ACF REST API Exposer
- * Plugin URI:        https://github.com/your-username/acf-rest-api-exposer
+ * Plugin URI:        https://github.com/gulshanbasouli/acf-rest-api-exposer
  * Description:       Exposes Advanced Custom Fields (ACF) data for all public custom post types and standard posts in the WordPress REST API under the "ACF" object.
  * Version:           1.0.0
- * Author:            Gulshan Ali
- * Author URI:        https://github.com/your-username
+ * Author:            Gulshan Chauhan
+ * Author URI:        https://github.com/gulshanbasouli
  * License:           MIT
  * License URI:       https://opensource.org/licenses/MIT
  * Text Domain:       acf-rest-api-exposer
