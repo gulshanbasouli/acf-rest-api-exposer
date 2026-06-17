@@ -105,6 +105,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-**Gulshan Ali**
-- GitHub: [@your-username](https://github.com/your-username)
+**Gulshan Chauhan**
+- GitHub: [@gulshanbasouli](https://github.com/gulshanbasouli)
 ```
